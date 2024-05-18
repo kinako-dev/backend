@@ -19,7 +19,8 @@ cd backend
 
 2. **Docker イメージのビルドとコンテナの起動**
 
-Docker Compose を使用して、必要な Docker イメージをビルドし、コンテナを起動します。
+Docker Compose を使用して、必要な Docker イメージをビルドし、コンテナを起動します
+air 導入済み
 
 ```
 docker-compose up --build
